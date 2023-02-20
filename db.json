@@ -1,0 +1,102 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "name": "Club Sandwitch",
+      "price": 10,
+      "image": "https://tornadoughalli.com/wp-content/uploads/2022/05/CLUB-SANDWICH-RECIPE-3-2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cheese & Garlic Toast",
+      "price": 5,
+      "image": "https://www.gritsandpinecones.com/wp-content/uploads/2022/01/texas-toast-garlic-bread-featured-1200x1200-copy.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fried Chicken Burger",
+      "price": 12,
+      "image": "https://easychickenrecipes.com/wp-content/uploads/2019/06/featured-fried-chicken-sandwich-recipe-reshoot.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jumbo Hot Dog",
+      "price": 10,
+      "image": "https://m.media-amazon.com/images/I/51QgtrUWv1S.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Carbonara Spaghetti",
+      "price": 8,
+      "image": "https://www.sipandfeast.com/wp-content/uploads/2022/09/spaghetti-carbonara-recipe-snippet-500x500.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Shrimp Scampi Spaghetti",
+      "price": 12,
+      "image": "https://dishingouthealth.com/wp-content/uploads/2021/03/ShrimpScampi_Square.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Meatball Spaghetti",
+      "price": 10,
+      "image": "https://casuallypeckish.com/wp-content/uploads/2021/01/Spaghetti-and-Meatballs-4.1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Bolognese Spaghetti",
+      "price": 15,
+      "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Spaghetti-Bolognese-square-FS-0204.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Pepperroni Pizza",
+      "price": 11,
+      "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2014%2F07%2F10%2Fpepperoni-pizza-ck-x.jpg&q=60"
+    },
+    {
+      "id": 10,
+      "name": "Margherita Pizza",
+      "price": 8,
+      "image": "https://www.blossmangas.com/wp-content/uploads/2021/05/Margherita-pizza-2.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Spicy Chicken Pizza",
+      "price": 13,
+      "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/216054.jpg?resize=1200:*"
+    },
+    {
+      "id": 12,
+      "name": "Becon Jalapeno Pizza",
+      "price": 15,
+      "image": "https://www.thecomfortofcooking.com/wp-content/uploads/2015/06/1.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Pepsi",
+      "price": 5,
+      "image": "https://www.onlinekade.lk/wp-content/uploads/2021/09/4060800303141.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Coca Cola",
+      "price": 5,
+      "image": "https://www.onlinekade.lk/wp-content/uploads/2021/09/5000112630633.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Fanta",
+      "price": 5,
+      "image": "https://5.imimg.com/data5/WK/KU/TW/SELLER-59097240/fanta-can-cold-drink-500x500.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Sprite",
+      "price": 5,
+      "image": "https://www.onlinekade.lk/wp-content/uploads/2021/09/5000112629118.jpg"
+    }
+  ],
+  "orders": []
+}
+
