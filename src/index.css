@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;300;400&display=swap');
+
+html {
+    overflow: hidden;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+input[type=text] {
+    padding: 2px 6px;
+    font-size: 12px;
+    border-radius: 4px;
+}
+
+.header {
+    padding: 10px 0px 4px 0px;
+    background-color: #f0f0f0;
+    position: fixed;
+    width: 100%;
+}
+
+.header h2 {
+    font-family: 'Source Code Pro', monospace;
+    padding: 0px 24px;
+}
+
+.mealSection {
+    height: 100vh;
+    background-color: #000;
+    color: #fff;
+    overflow-y: scroll;
+    margin-top: 0px;
+}
+
+.orderSection {
+    height: 100vh;
+    background-color: #dbdada;
+    color: #000;
+    overflow-y: auto;
+    margin-top: 0px;
+}
+
+.mealHeaderBar {
+    margin: 0px -12px;
+    padding: 12px 24px;
+    background-color: #003519;
+    margin-top: 60px;
+}
+
+.mealHeaderBar h5 {
+    margin: 0px;
+}
+
+.mealHeaderBar .headerCol {
+    padding-left: 0px;
+}
+
+.mealHeaderBar .searchCol {
+    padding-right: 0px;
+}
+
+.orderSectionHeader{
+    margin-top: 60px;
+}
+
+.orderSection h5 {
+    margin: 0px -12px;
+    padding: 12px 24px;
+    background-color: #a1e2c0;
+}
+
+.mealSection h5 span {
+    font-size: 12px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.mealSection img {
+    width: 100%;
+}
+
+.mealGrid {
+    padding-top: 24px;
+}
+
+.mealGridBox {
+    margin-bottom: 24px;
+}
+
+.gridBoxWrapper {
+    background-color: #fff;
+    padding: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.gridBoxWrapper:hover {
+    background-color: #a1e2c0;
+}
+
+.gridBoxWrapper p {
+    margin: 20px 0px 8px 0px;
+    color: #000;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.gridBoxWrapper p span {
+    float: right;
+    font-size: 28px;
+    font-weight: 200;
+    color: #003519;
+    position: relative;
+    bottom: 8px;
+}
+
+.orderTable {
+    margin-top: 20px;
+}
+
+.orderTable thead tr th {
+    font-size: 13px;
+    font-weight: 400;
+    padding: 10px 5px;
+}
+
+.orderTable tbody tr td {
+    font-size: 13px;
+    padding: 10px 5px;
+}
+
+.rightAlign {
+    text-align: right;
+}
+
+.centerAlign {
+    text-align: center;
+}
+
+.minusBtn,
+.plusBtn {
+    background-color: #a1e2c0;
+    border: 1px solid #a3a3a3;
+    color: #003519;
+    padding: 2px 8px;
+    width: 26px;
+    height: 26px;
+    border-radius: 4px;
+}
+
+.totalAmount {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.orderActionBtns {
+    margin: 50px 0px;
+}
+
+.cancelOrder {
+    background-color: #003519;
+    color: #fff;
+    width: 75%;
+    border: none;
+    border-radius: 4px;
+    font-size: 20px;
+    padding: 20px 10px;
+}
+
+.confirmOrder {
+    background-color: #a1e2c0;
+    color: #003519;
+    width: 75%;
+    border: 1px solid #003519;
+    border-radius: 4px;
+    font-size: 20px;
+    padding: 20px 10px;
+}
+
+.notification {
+    position: absolute;
+    top: 8px;
+    right: 0;
+    font-size: 15px;
+    padding: 11px 30px;
+    background-color: #003519;
+    color: #fff;
+    border-radius: 4px;
+}
